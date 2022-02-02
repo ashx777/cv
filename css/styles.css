@@ -1,0 +1,18 @@
+body {
+  background-color: #f8ecd9;
+}
+hr {
+  background-color: #f8ecd9;
+  border-style: dotted none none none;
+  border-color: rgb(1, 6, 70);
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #5e214b;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+h3 {
+  color: #2d2424;
+}
